@@ -1,5 +1,5 @@
 # Projects
-My analysis projects:
+My Data analysis projects
 1. Ice_games_store <p>
     Video games sales analysis | Yandex100 | 2020<p>
     Preprocessing data, identifying patterns, and planning an advertising campaign based on analysis
