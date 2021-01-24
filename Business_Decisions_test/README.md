@@ -19,6 +19,7 @@ Data used in the first part of the project<p>
 
 Data used in the second part of the project<p>
 orders_us.csv
+  
 `transactionId` — order identifier
   
 `visitorId` — identifier of the user who placed the order
