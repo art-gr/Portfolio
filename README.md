@@ -20,6 +20,9 @@ My Data analysis projects
 | Project name           | Description            | Libraries used              |
 | :--------------------  | :--------------------- |:----------------------------|
 |[Business decision](https://github.com/art-gr/practicum-portfolio/blob/main/Business_Decisions_test/Business_decision.ipynb "Business decision") |Case study - Business decision making Together with the marketing department, I've compiled a list of hypotheses that may help boost revenue. I will prioritize these hypotheses, launch an A/B test, and analyze the results.|*Pandas, NumPy, matplotlib.pyplot, SciPy*|
+|[Online Store](https://github.com/art-gr/practicum-portfolio/blob/main/games_store/game_store.ipynb "Online Store")|Data analyze, Data preprocessing , create a user profile for each region and test hypothesis. The notebooks also includes 'OFF THE RECORD' with web scraping simulation - overview|*Pandas, NumPy, matplotlib.pyplot, SciPy, seaborn, request, bs4, re, threading i.e*|
+
+
 
 ```python
 print("Here's a snippet of code in Python")
