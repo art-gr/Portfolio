@@ -17,3 +17,10 @@ My Data analysis projects
     Preprocessing data, identifying patterns i.e
 
     
+| Markdown              | tables                 | can be                      |
+| :-------------------- | :--------------------- |:----------------------------|
+|     aligned left      |     aligned right      |      and centered           |
+
+```python
+print("Here's a snippet of code in Python")
+```
