@@ -17,9 +17,9 @@ My Data analysis projects
     Preprocessing data, identifying patterns i.e
 
     
-| Markdown              | tables                 | can be                      |
-| :-------------------- | :--------------------- |:----------------------------|
-|     aligned left      |     aligned right      |      and centered           |
+| Project name           | Description            | Libraries used              |
+| :--------------------  | :--------------------- |:----------------------------|
+|[Business_decision](https://github.com/art-gr/practicum-portfolio/blob/main/Business_Decisions_test/Business_decision.ipynb "Business_decision") |     aligned right      |      and centered           |
 
 ```python
 print("Here's a snippet of code in Python")
@@ -46,13 +46,7 @@ print("Here's a snippet of code in Python")
 	1. Subitem
 	2. And another
 
-| Markdown              | tables                 | can be                      |
-| :-------------------- | ---------------------: |:---------------------------:|
-|     aligned left      |     aligned right      |      and centered           |
 
-```python
-print("Here's a snippet of code in Python")
-```
 
 [Link title](http://www.example.com "Link title")
 [For more information, visit](https://daringfireball.net/projects/markdown/)
