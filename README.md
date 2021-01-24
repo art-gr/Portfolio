@@ -45,6 +45,8 @@ print("Here's a snippet of code in Python")
 2. And continues
 	1. Subitem
 	2. And another
+	
+	
 | Markdown              | tables                 | can be                      |
 | :-------------------- | ---------------------: |:---------------------------:|
 |     aligned left      |     aligned right      |      and centered           |
