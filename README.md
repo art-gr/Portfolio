@@ -24,3 +24,35 @@ My Data analysis projects
 ```python
 print("Here's a snippet of code in Python")
 ```
+
+
+# Heading level 1
+## Heading level 2
+### Heading level 3
+#### Heading level 4
+
+**This text will be bold**
+*This text will be italic*
+***Combine them if you like*** 
+
+- First item of a simple list
+- Second item of a simple list
+	- Subitem of a simple list
+
+> This is a blockquote 
+
+1. An ordered list starts like this
+2. And continues
+	1. Subitem
+	2. And another
+
+| Markdown              | tables                 | can be                      |
+| :-------------------- | ---------------------: |:---------------------------:|
+|     aligned left      |     aligned right      |      and centered           |
+
+```python
+print("Here's a snippet of code in Python")
+```
+
+[Link title](http://www.example.com "Link title")
+[For more information, visit](https://daringfireball.net/projects/markdown/)
