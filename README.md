@@ -19,7 +19,7 @@ My Data analysis projects
     
 | Project name           | Description            | Libraries used              |
 | :--------------------  | :--------------------- |:----------------------------|
-|[Business_decision](https://github.com/art-gr/practicum-portfolio/blob/main/Business_Decisions_test/Business_decision.ipynb "Business_decision") |     aligned right      |      and centered           |
+|[Business_decision](https://github.com/art-gr/practicum-portfolio/blob/main/Business_Decisions_test/Business_decision.ipynb "Business_decision") |     Case study - Business decision making Together with the marketing department, I've compiled a list of hypotheses that may help boost revenue. I will prioritize these hypotheses, launch an A/B test, and analyze the results.      |      *Pandas, NumPy, matplotlib, SciPy*           |
 
 ```python
 print("Here's a snippet of code in Python")
