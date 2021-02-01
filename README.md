@@ -1,4 +1,4 @@
-# Repository with list of project list were completed for Practicum's Data Analyst professional training programs in Israel (Yandex100)
+# Repository with list of projects from the Practicum's Data Analyst professional training programs in Israel (Yandex100)
 
 About the progeam: Yandex100 is a 9-month intensive online program designed to train talents to be successful Data Analysts. 
 As part of the program I Developed a solid foundation of descriptive and predictive statistics, Exploratory Data Analysis, Data Collection and Storage, hypothesis testing and storytelling with data.
